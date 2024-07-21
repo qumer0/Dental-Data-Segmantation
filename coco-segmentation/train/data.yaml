@@ -1,0 +1,10 @@
+names:
+- Canine
+- Incisores
+- Premolars
+- molars
+- teeth
+nc: 5
+path: ..
+train: /content/drive/MyDrive/BitirmeProjesi.v1i.coco-segmentation/train/images
+val: /content/drive/MyDrive/BitirmeProjesi.v1i.coco-segmentation/train/images

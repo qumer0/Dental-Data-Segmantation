@@ -1,0 +1,7 @@
+train: /content/drive/MyDrive/dental_data/train
+val: /content/drive/MyDrive/dental_data/valid
+valid: /content/drive/MyDrive/dental_data/valid
+test: /content/drive/MyDrive/dental_data/test
+nc: 5
+names: ['Canine', 'Incisores', 'Premolars', 'molars', 'teeth']
+
