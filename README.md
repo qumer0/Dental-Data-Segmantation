@@ -1,4 +1,4 @@
-# train2 yolov8m-seg.pt 50 epoch
+train2 yolov8m-seg.pt 50 epoch
 
 train yolov8m-seg.pt 10 epoch
 
